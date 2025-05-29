@@ -57,7 +57,7 @@ while cap.isOpened():
     hearts = new_hearts
 
     # Add birthday messages
-    draw_message(frame, "Happy Birthday Maaa!", (80, 50), font_scale=1.5, color=(255, 0, 255))
+    draw_message(frame, "Happy Birthday!", (80, 50), font_scale=1.5, color=(255, 0, 255))
     draw_message(frame, "You're the best!", (180, 440), font_scale=1, color=(143, 0, 255))
 
     # Show the video frame
